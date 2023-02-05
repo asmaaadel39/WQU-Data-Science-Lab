@@ -2,6 +2,7 @@
 This Repo will be updated through my learning path at WorldQuant University. 
 
 **First Project 1-Housing in Mexico** 
+
 For this project the dataset is with 21,000 properties for sale in Mexico through the real estate website Properati.com. Your goal is to determine whether sale prices are influenced more by property size or location.
 
 Some of the things you'll learn in this project are:
